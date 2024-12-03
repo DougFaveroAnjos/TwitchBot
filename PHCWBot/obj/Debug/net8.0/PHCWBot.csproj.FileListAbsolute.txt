@@ -1,0 +1,15 @@
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\bin\Debug\net8.0\PHCWBot.exe
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\bin\Debug\net8.0\PHCWBot.deps.json
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\bin\Debug\net8.0\PHCWBot.runtimeconfig.json
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\bin\Debug\net8.0\PHCWBot.dll
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\bin\Debug\net8.0\PHCWBot.pdb
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.AssemblyInfoInputs.cache
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.AssemblyInfo.cs
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.sourcelink.json
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.dll
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\refint\PHCWBot.dll
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.pdb
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\PHCWBot.genruntimeconfig.cache
+C:\Users\Doug\Documents\Projetos\TwitchBot\PHCWBot\obj\Debug\net8.0\ref\PHCWBot.dll

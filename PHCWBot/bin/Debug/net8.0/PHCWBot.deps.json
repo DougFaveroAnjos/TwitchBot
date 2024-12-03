@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PHCWBot/1.0.0": {
+        "runtime": {
+          "PHCWBot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PHCWBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
